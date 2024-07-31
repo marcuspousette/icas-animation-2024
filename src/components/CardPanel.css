@@ -12,6 +12,7 @@
   justify-content: center;
   flex-wrap: wrap;
   width: 100%;
+  cursor: pointer;
 }
 
 .large-elements__card {
@@ -24,6 +25,7 @@
 }
 
 .small-elements {
+  cursor: pointer;
   position: fixed;
   bottom: 0px;
   display: flex;
